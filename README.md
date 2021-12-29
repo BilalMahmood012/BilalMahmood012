@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript React.js.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me => mbilalshah44@gmail.com
 
 <!---
 BilalMahmood012/BilalMahmood012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
